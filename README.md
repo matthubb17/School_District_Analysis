@@ -16,11 +16,16 @@ The goal of this project was to help, Maria to analyze data on student funding a
 
 As a result of the potential academic dishonesty at Thomas High School, I replaced the math and reading scores with NaNs for all 9th graders at the school. 
 
-* By removing the 9th graders scores for both math and reading we saw the below changes to the data for Thomas High School:
-	- The passing percentages of Thomas High School fell due to omitting the scores.
-	- The average scores for Thomas High School also fell as a result of omitting the scores.
-	- The district did see a slight decrease in both the average math and reading scores as a result of this potential academic dishonesty.
-	- Despite some changes we did still see the school rankings for top 5 and bottom 5 remain unchanged as Thomas High School still fell in as the 2nd highest performing school.
+* By replacing the 9th graders scores for both math and reading we saw the below changes to the data for Thomas High School:
+	- The overall passing % for the district fell slightly as a result of this change along with the passing % for Thomas High School
+	- We saw that by using the NaNs Thomas high school dropped out of the top 5 schools list.
+	- Other schools data were not affected by this change.
+	- One school that was not originally in the top 5 schools jumped into the top 5 as a result of Thomas High School dropping out.
+
+* By omitting the 9th graders scores from the data we saw the below changes to the data for Thomas High School:
+	- The overall passing percentages of Thomas High School fell slightly due to omitting the scores.
+	- The average math and reading scores for Thomas High School also fell as a result of omitting the scores.
+	- Despite some changes we did still see the school rankings for top 5 and bottom 5 remain unchanged as Thomas High School still fell in as a top 5 school even though we were now only looking at their 10th - 12th graders.
 
 
 ## Challenge Summary:
@@ -29,6 +34,7 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 
 
 ## District Summary:
+	- The below summary is a high level overview of the perfomance of the district for which this data is comprised of. You can see the results of omitting the scores of 9th graders from Thomas High School below.
 
 ![District Summary](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/District%20Summary.png)
 
@@ -52,6 +58,7 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 
 
 ## Scores by School Spending:
+
 
 ![School Spending](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Spending.png)
 
