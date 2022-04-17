@@ -51,6 +51,16 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 ![Reading Scores](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade.png)
 
 
+## Scores by School Spending:
+
+![School Spending](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Spending.png)
 
 
+## Scores by School Size:
 
+![School Size](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size.png)
+
+
+## Scores by School Type:
+
+![School Type](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Type.png)
