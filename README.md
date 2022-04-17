@@ -34,7 +34,8 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 
 
 ## District Summary:
-	- The below summary is a high level overview of the perfomance of the district for which this data is comprised of. You can see the results of omitting the scores of 9th graders from Thomas High School below.
+
+- The below summary is a high level overview of the perfomance of the district for which this data is comprised of. You can see the results of omitting the scores of 9th graders from Thomas High School below.
 
 ![District Summary](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/District%20Summary.png)
 
@@ -45,7 +46,7 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 
 ## High and Low Performing Schools:
 
-	- Thomas High School remained in the 2nd slot and only saw their average math and reading scores slightly impacted by removing the 9th graders.
+- Thomas High School remained in the 2nd slot and only saw their average math and reading scores slightly impacted by removing the 9th graders.
 
 ![High Performing Schools](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Top%205%20Schools%20Based%20on%20Passing%20Rate.png)
 
@@ -54,6 +55,8 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 
 ## Math & Reading Scores by Grade:
 
+- The only impact on this data was for Thomas High School to not have data for their 9th grade students as discussed above (this is not shown in the screenshot as I am only showing a shorter list of the full dataframe.
+
 ![Math Scores](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade.png)
 
 ![Reading Scores](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade.png)
@@ -61,15 +64,20 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 
 ## Scores by School Spending:
 
+- For the $630-$644 grouping we saw a slight change in the data as this is where Thomas High School falls. This change was fairly small and only changed less than 0.1 percent.
 
 ![School Spending](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Spending.png)
 
 
 ## Scores by School Size:
 
+- Thomas high school falls in the medium category. This data changed less than 1 % point.
+
 ![School Size](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size.png)
 
 
 ## Scores by School Type:
+
+- Thomas is a charter school and falls into this category. We saw that the change for charter schools scores changed once again by less than 0.1%.
 
 ![School Type](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Type.png)
