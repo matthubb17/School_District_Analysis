@@ -45,6 +45,8 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 
 ## High and Low Performing Schools:
 
+	- Thomas High School remained in the 2nd slot and only saw their average math and reading scores slightly impacted by removing the 9th graders.
+
 ![High Performing Schools](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Top%205%20Schools%20Based%20on%20Passing%20Rate.png)
 
 ![Low Performing Schools](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Bottom%205%20Schools%20Based%20on%20Passing%20Rate.png)
