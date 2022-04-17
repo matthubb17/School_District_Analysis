@@ -8,6 +8,8 @@ The goal of this project was to help, Maria to analyze data on student funding a
 
 **Data Source:** [Resources](https://github.com/matthubb17/School_District_Analysis/tree/main/Resources)
 
+**Challenge File:** [Challenge](https://github.com/matthubb17/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+
 **Software:** Python 3.9.7, Jupyter Notebook
 
 ## Results:
@@ -42,6 +44,11 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 ![Low Performing Schools](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Bottom%205%20Schools%20Based%20on%20Passing%20Rate.png)
 
 
+## Math & Reading Scores by Grade:
+
+![Math Scores](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade.png)
+
+![Reading Scores](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade.png)
 
 
 
