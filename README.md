@@ -55,7 +55,7 @@ As a result of the potential academic dishonesty at Thomas High School, I replac
 
 ## Math & Reading Scores by Grade:
 
-- The only impact on this data was for Thomas High School to not have data for their 9th grade students as discussed above (this is not shown in the screenshot as I am only showing a shorter list of the full dataframe.
+- The only impact on this data was for Thomas High School to not have data for their 9th grade students as discussed above (this is not shown in the screenshot as I am only showing a shorter list of the full dataframe.)
 
 ![Math Scores](https://github.com/matthubb17/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade.png)
 
